@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #686DD4;
+}
+/* Main container */
+.container{
+    width: 650px;
+    height: 350px;
+    margin: auto;
+    margin-top: 150px;
+    text-align: center;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 11px;
+    cursor: pointer;
+    transition: transform ease 1s;
+}
+.container:hover {
+    transform: scale(1.03);
+    color: #40ff00;
+    text-shadow: 1px 1px #ff0000;
+  }
+/* Joke heading */
+h3{
+   padding-top: 40px;
+   color: #979797;
+}
+/* Actual joke */
+.joke{
+    padding: 50px;
+    font-size: 27px;
+    font-family:  Times, serif;
+    font-weight: 600;
+    word-break: break-all;
+}
+/* Joke button */
+.btn{
+    width: 170PX;
+    height: 40PX;
+    font-size: 15px;
+    background-color: #A36AD9;
+    border-radius: 9px;
+    color: white;
+    cursor: pointer;
+    transition: transform ease 1s;
+}
+.btn:hover {
+    transform: scale(1.2);
+    color: rgb(255, 0, 0);
+    background-color: #00eeff;
+    text-shadow: 1px 1px #ff0000;
+  }
