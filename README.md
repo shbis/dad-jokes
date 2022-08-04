@@ -1,2 +1,2 @@
 # Dad-Jokes
-Technology's are HTML, CSS.
+Using are HTML, CSS.
