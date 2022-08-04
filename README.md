@@ -1,2 +1,2 @@
 # Dad-Jokes
-Using are HTML, CSS.
+Using HTML, CSS.
